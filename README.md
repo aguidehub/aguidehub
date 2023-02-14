@@ -19,4 +19,4 @@ I don't know what to do in life that's i'm doing this.
 ---
 
 ### :writing_hand: Blog Posts :
-**WebSite:** [aguidehub.com](https://aguidehub.com)
+**WebSite:** <a href="https://aguidehub.com" rel="dofollow" target="_BLANK">aguidehub.com</a>
